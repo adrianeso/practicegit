@@ -9,5 +9,11 @@
 </head>
 <body>
     <h1>Hello please contine to the first exercise....</h1>
+
+    <ol>
+        <li><a href="first.php">First exercise</a></li>
+        <li><a href="second.php">Second exercise</a></li>
+        <li><a href="form/contact.php">Second exercise</a></li>
+    </ol>
 </body>
 </html>
