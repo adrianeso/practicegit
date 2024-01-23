@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .eight-box{
     width: 100px;
     height: 100px;
@@ -8,6 +9,19 @@
 .span-boxes{
     font-size: 2em;
 }
+=======
+.nine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bolder;
+    color: white;
+    background-color: #212121;
+    height: 100vh;
+}
+
+>>>>>>> 34e5a788781dc60ae75b4ce8f1d991d297c96152
 *{
     margin: 0;
     padding: 0;
@@ -24,4 +38,13 @@
 .span-box{
 >>>>>>> d81b987204f116281ddf4d6cddf5006f8d41a70a
     font-size: 2em;
+}
+
+.pancakes {
+    width: 200px;
+    height: 200px;
+    background-image: url(https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/CCBC8257-1614-4027-A5F1-B3A40FC46905/Derivates/DB4155EF-4C31-4E24-8B06-419F09F2757F.jpg);
+}
+.small-pancake {
+    font-size: 3em;
 }

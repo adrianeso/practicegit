@@ -5,12 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
     <link rel="stylesheet" href="css/second.css">
-<<<<<<< HEAD
-
-=======
->>>>>>> d81b987204f116281ddf4d6cddf5006f8d41a70a
     <title>Practice </title>
 </head>
 <body>
@@ -31,9 +26,11 @@
 
 
 </p>
-<p>9</p>
 <p class="eight-box">
     <span class="span-boxes">8. Hello!</span>
+</p>
+<p class="nine">
+    - = 9 = -
 </p>
 <p>7</p>
 <p>6</p>
@@ -41,7 +38,9 @@
 <p>4</p>
 <p>3</p>
 <p>2</p>
-<p>1</p>
+<p class="pancakes">
+    <span class="small-pancake">Pancake</span>
+</p>
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 
