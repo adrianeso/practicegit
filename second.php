@@ -38,7 +38,9 @@
 <p>4</p>
 <p>3</p>
 <p>2</p>
-<p>1</p>
+<p class="pancakes">
+    <span class="small-pancake">
+</p>
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 

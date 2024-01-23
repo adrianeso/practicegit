@@ -25,3 +25,12 @@
 .span-box{
     font-size: 2em;
 }
+
+.pancakes {
+    width: 200px;
+    height: 200px;
+    background-image: url(https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/CCBC8257-1614-4027-A5F1-B3A40FC46905/Derivates/DB4155EF-4C31-4E24-8B06-419F09F2757F.jpg);
+}
+.small-pancake {
+    font-size: 3em;
+}
