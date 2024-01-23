@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 .eight-box{
     width: 100px;
     height: 100px;
@@ -9,7 +7,6 @@
 .span-boxes{
     font-size: 2em;
 }
-=======
 .nine{
     display: flex;
     justify-content: center;
@@ -20,26 +17,17 @@
     background-color: #212121;
     height: 100vh;
 }
-
->>>>>>> 34e5a788781dc60ae75b4ce8f1d991d297c96152
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-
 .ten-box{
     width: 150px;
     height: 150px;
     background: bisque;
 }
-
-.span-box{
->>>>>>> d81b987204f116281ddf4d6cddf5006f8d41a70a
-    font-size: 2em;
-}
-
 .pancakes {
     width: 200px;
     height: 200px;
