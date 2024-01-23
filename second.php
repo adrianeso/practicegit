@@ -39,7 +39,7 @@
 <p>3</p>
 <p>2</p>
 <p class="pancakes">
-    <span class="small-pancake">
+    <span class="small-pancake">Pancake</span>
 </p>
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
