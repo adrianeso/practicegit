@@ -22,22 +22,12 @@
 <p>5</p>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla obcaecati quasi est nostrum natus eius repellat harum a, quia officiis magni, iste voluptate suscipit necessitatibus ullam nihil delectus accusantium ipsa!</p>
 <p>7</p>
-<<<<<<< HEAD
 <p>8. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-<p>9</p>
-=======
-<p>8</p>
-<<<<<<< HEAD
 <p>AbodA</p>
->>>>>>> 2b1f6ee5a478abf808f9b52516f92490778cce99
-<p>10</p>
-=======
-<p>9</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
     Assumenda, atque consectetur cum
     dicta dignissimos dolore, excepturi explicabo illo illum nobis optio possimus quae quasi quia quisquam suscipit ut velit vitae.
 </p>
->>>>>>> 65436a7682fa3bdd51649a63001a9814a4b453e7
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 
