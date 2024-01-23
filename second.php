@@ -5,6 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/second.css">
 
     add line for call css style here
 
@@ -24,7 +25,9 @@
 
 
 <p>10</p>
-<p>9</p>
+<p class="nine">
+    - = 9 = -
+</p>
 <p>8</p>
 <p>7</p>
 <p>6</p>
