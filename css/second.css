@@ -1,0 +1,10 @@
+.six-box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.span-six{
+    color: yellow;
+    font-weight: 700;
+}

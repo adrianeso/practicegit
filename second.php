@@ -5,8 +5,8 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
     add line for call css style here
+    <link rel="stylesheet" href="css/second.css">
 
     <title>Practice </title>
 </head>
@@ -27,7 +27,9 @@
 <p>9</p>
 <p>8</p>
 <p>7</p>
-<p>6</p>
+<p class="six-box">
+    <span class="span-six">6. makdoknek</span>
+</p>
 <p>5</p>
 <p>4</p>
 <p>3</p>
