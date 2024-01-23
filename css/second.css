@@ -1,0 +1,9 @@
+.eight-box{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    color: #212121;
+}
+.span-boxes{
+    font-size: 2em;
+}
