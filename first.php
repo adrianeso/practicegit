@@ -15,7 +15,7 @@
 
 <p> Your mission.....   add text to the corresponding paragraph </p>
 
-<p>1</p>
+<p>A recipe for fluffy and soft kefir pancakes, which many have loved since childhood. But not everyone knows how to cook pancakes correctly, because sometimes they don’t rise or turn out flat and sticky inside. I'll tell you a few cooking secrets</p>
 <p>2</p>
 <p>3</p>
 <p>4</p>
