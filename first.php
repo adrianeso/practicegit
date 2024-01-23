@@ -24,7 +24,12 @@
 <p>7</p>
 <p>8. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 <p>AbodA</p>
+<<<<<<< HEAD
 <p>I change this :D</p>
+=======
+<p>line edited for Adrian
+</p>
+>>>>>>> ef7c0f5 (pausa)
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 
