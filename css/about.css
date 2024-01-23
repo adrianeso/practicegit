@@ -1,0 +1,13 @@
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+
+}
+.footer{
+    display: flex;
+    background: bisque;
+}
+
+
