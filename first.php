@@ -23,8 +23,16 @@
 <p>6</p>
 <p>7</p>
 <p>8</p>
+<<<<<<< HEAD
 <p>AbodA</p>
 <p>10</p>
+=======
+<p>9</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+    Assumenda, atque consectetur cum
+    dicta dignissimos dolore, excepturi explicabo illo illum nobis optio possimus quae quasi quia quisquam suscipit ut velit vitae.
+</p>
+>>>>>>> 65436a7682fa3bdd51649a63001a9814a4b453e7
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 
