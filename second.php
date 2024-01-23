@@ -5,13 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<<<<<<< HEAD
-    add line for call css style here
     <link rel="stylesheet" href="css/second.css">
-
-=======
-    <link rel="stylesheet" href="css/second.css">
->>>>>>> eefefaf020da8bcc0b33a347ec7aa04944b4417f
     <title>Practice </title>
 </head>
 <body>
