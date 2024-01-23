@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .eight-box{
     width: 100px;
     height: 100px;
@@ -5,5 +6,22 @@
     color: #212121;
 }
 .span-boxes{
+    font-size: 2em;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.ten-box{
+    width: 150px;
+    height: 150px;
+    background: bisque;
+}
+
+.span-box{
+>>>>>>> d81b987204f116281ddf4d6cddf5006f8d41a70a
     font-size: 2em;
 }

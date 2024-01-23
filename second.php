@@ -7,7 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <link rel="stylesheet" href="css/second.css">
+<<<<<<< HEAD
 
+=======
+>>>>>>> d81b987204f116281ddf4d6cddf5006f8d41a70a
     <title>Practice </title>
 </head>
 <body>
@@ -23,7 +26,11 @@
 </ol>
 
 
-<p>10</p>
+<p class="ten-box">
+    <span class="span-box">hello</span>
+
+
+</p>
 <p>9</p>
 <p class="eight-box">
     <span class="span-boxes">8. Hello!</span>
@@ -34,6 +41,7 @@
 <p>4</p>
 <p>3</p>
 <p>2</p>
+<p>1</p>
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 

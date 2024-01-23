@@ -20,14 +20,21 @@
 <p>3</p>
 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui ex officiis aperiam. Cum odit, dolor, repellat quaerat eius voluptates debitis soluta saepe minima aliquam ducimus dicta maiores similique assumenda adipisci!</p>
 <p>5</p>
+<<<<<<< HEAD
 <p>6</p>
 <p>7</p>`   
+=======
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla obcaecati quasi est nostrum natus eius repellat harum a, quia officiis magni, iste voluptate suscipit necessitatibus ullam nihil delectus accusantium ipsa!</p>
+<p>7</p>
+>>>>>>> d81b987204f116281ddf4d6cddf5006f8d41a70a
 <p>8. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 <p>AbodA</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-    Assumenda, atque consectetur cum
-    dicta dignissimos dolore, excepturi explicabo illo illum nobis optio possimus quae quasi quia quisquam suscipit ut velit vitae.
+<<<<<<< HEAD
+<p>I change this :D</p>
+=======
+<p>line edited for Adrian
 </p>
+>>>>>>> ef7c0f5 (pausa)
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 
