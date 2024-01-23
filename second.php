@@ -6,8 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    add line for call css style here
-
+    <link rel="stylesheet" href="css/second.css">
     <title>Practice </title>
 </head>
 <body>
@@ -23,7 +22,11 @@
 </ol>
 
 
-<p>10</p>
+<p class="ten-box">
+    <span class="span-box">hello</span>
+
+
+</p>
 <p>9</p>
 <p>8</p>
 <p>7</p>
@@ -32,6 +35,7 @@
 <p>4</p>
 <p>3</p>
 <p>2</p>
+<p>1</p>
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 

@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.ten-box{
+    width: 150px;
+    height: 150px;
+    background: bisque;
+}
+
+.span-box{
+    font-size: 2em;
+}
