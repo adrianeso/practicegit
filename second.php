@@ -26,11 +26,11 @@
 
 
 </p>
-<p class="eight-box">
-    <span class="span-boxes">8. Hello!</span>
-</p>
 <p class="nine">
     - = 9 = -
+</p>
+<p class="eight-box">
+    <span class="span-boxes">8. Hello!</span>
 </p>
 <p>7</p>
 <p>6</p>
