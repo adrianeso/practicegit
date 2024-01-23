@@ -15,5 +15,8 @@
         <li><a href="second.php">Second exercise</a></li>
         <li><a href="form/contact.php">Second exercise</a></li>
     </ol>
+
+<h2>Welcome to the jungle!</h2>
+
 </body>
 </html>
