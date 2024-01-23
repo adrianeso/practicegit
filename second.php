@@ -6,8 +6,6 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/second.css">
-
-    <link rel="stylesheet" href="css/second.css">
     <title>Practice </title>
 </head>
 <body>
@@ -31,7 +29,9 @@
 <p class="nine">
     - = 9 = -
 </p>
-<p>8</p>
+<p class="eight-box">
+    <span class="span-boxes">8. Hello!</span>
+</p>
 <p>7</p>
 <p>6</p>
 <p>5</p>

@@ -1,3 +1,12 @@
+.eight-box{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    color: #212121;
+}
+.span-boxes{
+    font-size: 2em;
+}
 .nine{
     display: flex;
     justify-content: center;
@@ -8,28 +17,22 @@
     background-color: #212121;
     height: 100vh;
 }
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-
 .ten-box{
     width: 150px;
     height: 150px;
     background: bisque;
 }
-
-.span-box{
-    font-size: 2em;
-}
-
 .pancakes {
     width: 200px;
     height: 200px;
     background-image: url(https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/CCBC8257-1614-4027-A5F1-B3A40FC46905/Derivates/DB4155EF-4C31-4E24-8B06-419F09F2757F.jpg);
+    background-size: cover;
 }
 .small-pancake {
     font-size: 3em;
