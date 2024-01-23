@@ -5,9 +5,13 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<<<<<<< HEAD
     add line for call css style here
     <link rel="stylesheet" href="css/second.css">
 
+=======
+    <link rel="stylesheet" href="css/second.css">
+>>>>>>> eefefaf020da8bcc0b33a347ec7aa04944b4417f
     <title>Practice </title>
 </head>
 <body>
@@ -23,17 +27,28 @@
 </ol>
 
 
-<p>10</p>
-<p>9</p>
-<p>8</p>
+<p class="ten-box">
+    <span class="span-box">hello</span>
+
+
+</p>
+<p class="nine">
+    - = 9 = -
+</p>
+<p class="eight-box">
+    <span class="span-boxes">8. Hello!</span>
+</p>
 <p>7</p>
 <p class="six-box">
     <span class="span-six">6. makdoknek</span>
 </p>
 <p>5</p>
-<p>4</p>
+<p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p>
 <p>3</p>
 <p>2</p>
+<p class="pancakes">
+    <span class="small-pancake">Pancake</span>
+</p>
 
 <p>When finish this, do it a commit and push the changes to the repository.</p>
 
