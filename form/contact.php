@@ -44,18 +44,18 @@
 
 <form action="process.php" method="post" enctype="application/x-www-form-urlencoded">
     <div class="group-element">
-        <label class="label" for="">Name</label>
-        <input class="input-form" type="text" placeholder="Name">
+        <label class="label" for="name">Name</label>
+        <input class="input-form" type="text" placeholder="Name" name="username" id="name">
     </div>
 
     <div class="group-element">
-        <label class="label" for="">Email</label>
-        <input class="input-form" type="text" placeholder="Email">
+        <label class="label" for="email">Email</label>
+        <input class="input-form" type="text" placeholder="Email" name="email" id="email">
     </div>
 
     <div class="group-element">
-        <label class="label" for="">Phone number</label>
-        <input class="input-form" type="text" placeholder="Phone number">
+        <label class="label" for="phone_number">Phone number</label>
+        <input class="input-form" type="text" placeholder="Phone number" name="phone_number" id="phone_number">
     </div>
 
     <div class="group-element">

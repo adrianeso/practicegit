@@ -17,9 +17,10 @@ $asociativeData = [
 }*/
 
 
+
 foreach ($asociativeData as $key => $value){
-        foreach ($value as $items => $item){
-            print_r($item);
+        foreach ($value as $items ){
+            print_r($items);
         }
 }
 
