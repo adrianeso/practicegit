@@ -14,7 +14,7 @@ if($_POST){
 
     if($conexionMysqli)
     {
-        $sql = "INSERT INTO users  VALUES (NULL, '$name', '$email', '$phoneNumber', '$message', NULL, NULL, NULL)";
+        $sql = "INSERT INTO users VALUES (NULL, '$name', '$email', '$phoneNumber', '$message', NULL, NULL, NULL)";
 
         $save = $conexionMysqli->query($sql);
 
@@ -23,7 +23,7 @@ if($_POST){
             header('Location: ' . $_SERVER['HTTP_REFERER']);
 
         }else{
-            header('Location: ' . $_SERVER['HTTP_REFERER'].'?error="not saved');
+            echo "Not Saved !!!! :( ";
         }
 
 
